@@ -1,0 +1,346 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    
+}
+nav{
+    background: #FEBEBE;
+}
+.list_item{
+    margin-top: 30px;
+}
+.list_item a{
+    text-decoration: none;
+    margin-left: 50px;
+    color: #000000;
+}
+
+.find{
+    margin-top: 50px;
+    font-weight: 450;
+font-size: 65px;
+/* line-height: 82px; */
+color: #010101;
+}
+.mollit{
+    margin-top: 20px;
+    font-weight: 300;
+font-size: 18px;
+line-height: 24px;
+color: #010101;
+}
+.please{
+    margin-top: 20px;
+    width: 188px;
+height: 56px;
+background: #FCFFDD;
+border-radius: 100px
+}
+.you{
+    margin-left: 100px;
+}
+.ofis{
+    margin-left: 40px;
+    width: 450px;
+height: 120px;
+left: 732px;
+top: 605px;
+background: #FFE2B5;
+}
+
+.value{
+    display: flex;
+}
+.brench{
+    margin-top: 10px;
+}
+.pleaces{
+    text-align: center;
+}
+.hund{
+    display: flex;
+}
+.one{
+    margin-top: 5px;
+    margin-left: 36px;
+    color:  #4569F1;
+}
+
+.meet{
+    width: 398px;
+height: 468px;
+}
+
+.show{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #010101;
+    width: 188px;
+height: 56px;
+border: 1px solid #DEDEDE;
+border-radius: 100px;
+}
+.values{
+    margin-left: 333px;
+    margin-top: 60px;
+}
+.venim{
+    margin-top: 60px;
+}
+.velit{
+    margin-left: 50px;
+}
+.fact{
+    margin-top: 100px;
+    font-weight: 500;
+font-size: 28px;
+line-height: 32px;
+text-decoration-line: underline;
+color: #000000;
+}
+.simple{
+    margin-top: 50px;
+    font-weight: 500;
+font-size: 28px;
+line-height: 32px;
+text-decoration-line: underline;
+color: #000000;
+}
+.product{
+    margin-top: 50px;
+    font-weight: 500;
+font-size: 28px;
+line-height: 32px;
+text-decoration-line: underline;
+color: #000000;
+}
+.desent{
+    font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 0.02em;
+color: #010101;
+}
+.orient{
+    margin-top: 67px;
+    width: 559px;
+height: 444px;
+}
+.idea{
+    font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+color: #000000;
+margin-top: 100px;
+}
+.away{
+    text-align: center;
+}
+
+.industry{
+    margin-top: 50px;
+}
+.terms{
+    width: 68px;
+    height: 68px;
+    background: #D9D9D9;
+    border-radius: 50%;
+    color: black;
+}
+.fa-solid{
+    margin-top: 27px;
+}
+
+.marvin{
+    color: #182552;
+}
+
+.fa-soli-sharp{
+    display: flex;
+}
+
+.jlkj{
+    margin-left: 100px;
+}
+footer{
+    background: #010101;
+}
+
+.wash{
+    font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+}
+.manhjhgh{
+    margin-top: 30px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+}
+.platform{
+    font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF
+}
+.data{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.resours{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF
+}
+.final{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+.sasa{
+    margin-top: 50px;
+}
+.plat{
+    margin-top: 50px;
+}
+.reso{
+    margin-top: 50px;
+}
+.reso{
+    margin-top: 50px;
+
+    margin-left: 20px;
+}
+.wash{
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:575px) {
+ nav{
+    
+ }
+ .logo1{
+    width: 171px;
+    height: 51px;
+ }
+ .find{
+    margin-top: 50px;
+    font-weight: 400px;
+    font-size: 31px;
+    line-height: 82px;
+    color: #010101;
+ }
+ .ofis{
+    margin-left: 10px;
+    width: 350px;
+    height: 111px;
+ }
+ .you{
+    width: 260px;
+ }
+ .orient{
+    margin-left: 10px;
+    width: 380px;
+    height: 300px;
+    margin-left: -50px;
+ }
+ .values{
+    margin-left: 10px;
+ }
+
+}
